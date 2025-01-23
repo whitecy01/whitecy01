@@ -1,10 +1,19 @@
 ## 정재윤👋
 
+
+
 ### 주언어
+<div align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitecy01&layout=compact)
 
+</div>
 ### backjun
+<div align="center">
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whitecy)](https://solved.ac/whitecy/)
+</div>
+
 
 ### 기술 스택 
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
